@@ -26,7 +26,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Jhon Vincent Sosa from Guimaras<br><br>- 🔭 I’m student at Guimaras State University (GSU)<br>- 📚 I'm currently learning SQL<br>- ⚡ In my free time do some basic SQL code</p>
+<p data-importer="text" align="left">I'm Jhon Vincent Sosa from Guimaras<br><br>- 🔭 I’m student at Guimaras State University (GSU)<br>- 📚 I'm learning SQL Fundamentals<br>- ⚡ In my free time do some basic SQL code</p>
 
 ###
 
