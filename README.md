@@ -18,7 +18,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hello👋</h1>
+<h1 data-importer="text" align="center">Hello🦖</h1>
 
 ###
 
@@ -26,13 +26,19 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Jhon Vincent Sosa from Guimaras<br><br>- 🔭 I’m student at Guimaras State University (GSU)<br>- 📚 I'm learning SQL Fundamentals<br>- ⚡ In my free time do some basic SQL code</p>
+<p data-importer="text" align="left">I'm Jhon Vincent Sosa from Guimaras<br><br>- 🔭 I’m student at Guimaras State University (GSU)<br>- 📚 Currently, I'm taking a Data Engineering course on DataCamp. <br> 
+
+
+</p>
 
 ###
 
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
 ###
+
+
+
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
@@ -104,6 +110,5 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
 ###
