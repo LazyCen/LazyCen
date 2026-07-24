@@ -8,31 +8,13 @@
   <a href="https://www.linkedin.com/in/jhon-vincent-sosa-12b6963a8/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="jhonvincentp.sosa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
 
 ###
-
-<h1 data-importer="text" align="center">Rawrrr🦖</h1>
-
 ###
-
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
-
-###
-
-<p data-importer="text" align="left">I'm Jhon Vincent Sosa from Guimaras<br><br>- 🔭 I’m student at Guimaras State University (GSU)<br>- 📚 Currently, I'm taking a Data Engineering course on DataCamp. <br> 
-
-
-</p>
-
-###
-
 <h3 data-importer="text" align="left">🛠 Language and tools</h3>
 
 ###
